@@ -16,7 +16,7 @@ A cake way to standup a linux box provisioned for dotnetcore with the ASP 6 Hell
  - `cd ../../app` 
  - `dnu restore` 
  - `dnu build` (moot by the following line) 
- - `dnx web` 
+ - `dnx web` (on edits of the code on your HOST machine, kill this process in vagrant ssh then restart it to see your new changes)
 4. On your host, browse to http://localhost:8080 
 5. Behold, the HelloWorld ASP 6 example running
 
