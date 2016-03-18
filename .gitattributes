@@ -1,0 +1,32 @@
+# Custom for Visual Studio
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.fsproj text eol=crlf
+*.dbproj text eol=crlf
+*.xproj text eol=crlf
+
+*.vcxproj text eol=crlf
+*.vcxitems text eol=crlf
+*.props text eol=crlf
+*.filters text eol=crlf
+
+# source code
+*.cs diff=csharp
+*.css text
+*.sass text
+*.scss text
+*.less text
+*.js text
+*.ts text
+*.coffee text
+*.json text
+*.htm text
+*.html text
+*.xml text
+*.svg text
+*.txt text
+*.ini text
+*.inc text
+*.sql text
+*.sh text
+*.bat text
