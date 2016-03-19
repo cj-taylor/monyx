@@ -16,7 +16,7 @@ A cake way to standup a linux box provisioned for dotnetcore with the ASP 6 Hell
 4. Behold, the HelloWorld ASP 6 example running
 
 # To improve upon 
-- Step 2 - This is an MVP and definitely can be tweaked for performance. 
+- Step 2 - This is an MVP and definitely can be tweaked for performance. Currenly full provision + app setup = 2min35s
 - Step 3 - A manual step for now due to something awry with $HOME resolving on Windows/OSX Vagrants to different results 
   - Goal, get that fixed and use vagrant/setup_app.sh then uncomment the 
 - Step 5 - For now this is the HelloWorldMVC, but really could be anything you decide to run 
