@@ -17,4 +17,4 @@ A cake way to standup a linux box provisioned for dotnetcore with the ASP 6 Hell
 
 # To improve upon 
 - Step 2 - This is an MVP and definitely can be tweaked for performance. Currenly full provision + app setup = 2min35s
-- Step 5 - For now this is the HelloWorldMVC, but really could be anything you decide to run 
+- Step 4 - For now this is the HelloWorldMVC, but really could be anything you decide to run 
